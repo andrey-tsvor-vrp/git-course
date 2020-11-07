@@ -1,0 +1,6 @@
+This file was created to improve the skills of Git control version.
+
+The first commit.
+Were added the changes.
+
+Changed
